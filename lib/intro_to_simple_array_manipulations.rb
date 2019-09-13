@@ -22,8 +22,8 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat(array)
-    more_conact1(array1)
+def using_concat[array]
+    more_conact1[array1]
     using_concat1.concat(more_concat)
 end
 

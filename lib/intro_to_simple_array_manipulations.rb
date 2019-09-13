@@ -24,11 +24,11 @@ end
 
 def concat(array)
     oncat1(array1)
-    concat.concat(concat1)
+    concat.concat(array)
 end
 
 def using_insert (array, new_element)  
-  array.insert [4]
+  array.insert (4)
 end
 
 def using_uniq(array)
